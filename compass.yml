@@ -1,0 +1,18 @@
+name: Smiles
+id: 'ari:cloud:compass:713b4d5a-0e95-4420-87ae-be0166579b03:component/be9a9b6c-452b-489d-bc45-8f20411c1352/24f8f447-ee2b-49fb-b7e3-df4d1b338c52'
+description: null
+configVersion: 1
+typeId: LIBRARY
+ownerId: 'ari:cloud:identity::team/1a0b96a8-731f-4b86-8024-521217457cf5'
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/phabo4x4/smiles'
+relationships: {}
+labels: null
+customFields: null
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
